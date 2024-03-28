@@ -1,6 +1,6 @@
 # [LABDOCX] - Portfolio
 
-> “Crafting robust systems that power progress. ”
+> “Error: New-GithubProfile : Failed to initiate Github Profile”
 
 ![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/GithubBanner.jpg)
 
