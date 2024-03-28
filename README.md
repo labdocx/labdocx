@@ -1,18 +1,12 @@
 # [LABDOCX] - Portfolio
 
-> “Error: New-GithubProfile : Failed to create a new GitHub profile due to a validation error.”
-> 
-> CategoryInfo          : InvalidData: (:) [New-GithubProfile], DataValidationException
-> FullyQualifiedErrorId : Github.Profile.DataValidationException,New-GithubProfile
-> Details: The provided email address is already associated with an existing GitHub account. GitHub profiles must have a unique email address.
->
->Recommended Action: Verify the email address for accuracy and ensure it is not already linked to another GitHub account. 
->
->If you are attempting to update an existing profile, consider using the Update-GithubProfile cmdlet. For further assistance, refer to GitHub's documentation on profile management.
+ 
+![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/PowershellGithubBanner.jpg)
 
-![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/GithubBanner.jpg)
+##
 
-Welcome to my professional portfolio! I specialise in designing, implementing, and maintaining scalable, reliable, and secure systems. My portfolio showcases a range of projects that highlight my skills in automation, network design, cloud infrastructure, and system optimization.
+Welcome to my professional portfolio! I specialise in designing, implementing, and maintaining scalable, reliable, and secure systems. 
+My portfolio showcases a range of projects that highlight my skills in automation, network design, cloud infrastructure, and system optimization.
 
 ## About Me
 
