@@ -1,6 +1,14 @@
 # [LABDOCX] - Portfolio
 
-> “Error: New-GithubProfile : Failed to initiate Github Profile”
+> “Error: New-GithubProfile : Failed to create a new GitHub profile due to a validation error.”
+> 
+> CategoryInfo          : InvalidData: (:) [New-GithubProfile], DataValidationException
+> FullyQualifiedErrorId : Github.Profile.DataValidationException,New-GithubProfile
+> Details: The provided email address is already associated with an existing GitHub account. GitHub profiles must have a unique email address.
+>
+>Recommended Action: Verify the email address for accuracy and ensure it is not already linked to another GitHub account. 
+>
+>If you are attempting to update an existing profile, consider using the Update-GithubProfile cmdlet. For further assistance, refer to GitHub's documentation on profile management.
 
 ![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/GithubBanner.jpg)
 
