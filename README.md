@@ -2,7 +2,7 @@
 
 > “Crafting robust systems that power progress. ”
 
-![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/profile_banner.jpg)
+![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/GithubBanner.jpg)
 
 Welcome to my professional portfolio! I specialise in designing, implementing, and maintaining scalable, reliable, and secure systems. My portfolio showcases a range of projects that highlight my skills in automation, network design, cloud infrastructure, and system optimization.
 
