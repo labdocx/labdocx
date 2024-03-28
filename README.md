@@ -1,6 +1,6 @@
 # [LABDOCX] - Portfolio
 
-> “Crafting robust systems that power progress.”
+> “Crafting robust systems that power progress. ”
 
 ![Profile or System Diagram](https://github.com/labdocx/labdocx/blob/main/profile_banner.jpg)
 
